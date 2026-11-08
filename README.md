@@ -6,7 +6,7 @@
 ## how to larp like a master, best nixos config ever [TEL AVIV APPROVED]
 
 ```bash
-git clone https://github.com/iamanno247/rynix.git ~/NixOS
+git clone https://github.com/iamanno247/NixOS.git ~/NixOS
 rm ~/NixOS/hardware-configuration.nix
 sudo rm /etc/nixos/configuration.nix
 sudo cp -a ~/NixOS/. /etc/nixos
