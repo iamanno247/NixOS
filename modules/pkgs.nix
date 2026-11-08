@@ -33,6 +33,7 @@
     # APPS
     openrgb
     chromium
+    inputs.brave-flake.packages.${pkgs.system}.brave-origin
     lact
     gpu-screen-recorder-ui
     easyeffects

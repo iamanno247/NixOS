@@ -31,10 +31,15 @@
     nixcord = {
       url = "github:4evy/nixcord/3cc16a5520810b84b3ebb21416402d3a0620ad34";
     };
+
+    brave-flake = {
+      url = "git+https://codeberg.org/buckley310/brave-browser-nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   # Include voxtype in your outputs arguments
-  outputs = { ryoku, zen-browser, sls-steam, nixpkgs, home-manager, voxtype, nixcord, ... }@inputs: {
+  outputs = { ryoku, zen-browser, sls-steam, nixpkgs, home-manager, voxtype, nixcord, brave-flake, ... }@inputs: {
     nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
       system = "x86_64-linux";
 

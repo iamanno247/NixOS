@@ -2862,9 +2862,9 @@
     "barScale": 1,
     "barSeps": [
       "G1",
-      "G2",
       "G10",
-      "G11"
+      "G11",
+      "G2"
     ],
     "barShadowEnabled": true,
     "barShellStyle": "islands",
