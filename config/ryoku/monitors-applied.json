@@ -1,0 +1,17 @@
+{
+  "monitors": [
+    {
+      "output": "HDMI-A-1",
+      "mode": "1920x1080@180.00",
+      "position": "0x0",
+      "scale": 1,
+      "transform": 0,
+      "vrr": 0,
+      "mirror": "",
+      "cm": "srgb",
+      "sdrbrightness": 1,
+      "disabled": false,
+      "id": "DHI|DHI-LM25-E231|000000000000"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "components": {
+    "wallpaperSelector": {
+      "displayMode": "duel",
+      "duelCorners": 36,
+      "duelFalloff": 40,
+      "duelHeight": 605,
+      "duelNavigationMs": 214,
+      "duelShadows": false,
+      "duelSkew": 2,
+      "duelWidth": 641,
+      "enabled": true,
+      "gridLayout": "uniform",
+      "lastAppliedKey": "2",
+      "startPosition": "browsing"
+    }
+  },
+  "display": {},
+  "filterBar": {
+    "defaultFolder": "",
+    "last": {
+      "type": ""
+    },
+    "sticky": true
+  },
+  "general": {
+    "notifyOnWallpaperChange": false,
+    "selectorBackdropOpacity": 10,
+    "uiScale": 0.8
+  },
+  "integrations": [],
+  "matugen": {
+    "mode": "dark"
+  },
+  "overviewBackdrop": {
+    "blur": 40,
+    "blurEnabled": true,
+    "dim": 20
+  },
+  "performance": {
+    "imageOptimizePreset": "quality",
+    "imageOptimizeResolution": "4k"
+  },
+  "theme": {
+    "policy": "wallpaper"
+  },
+  "transition": {
+    "shader": "fadecolor"
+  },
+  "wallhaven": {
+    "apiKey": "oJgcZenpLsTseT8NS7hn2SpcgH7vRT9F"
+  },
+  "wallpaperMute": true
+}

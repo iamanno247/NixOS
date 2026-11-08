@@ -1,0 +1,49 @@
+{
+    "depth": {
+        "cut": {
+            "matting": false,
+            "model": "u2netp"
+        },
+        "edge": 0.15,
+        "front": [
+        ],
+        "shadow": 0,
+        "shadowAngle": 90
+    },
+    "editGridSize": 32,
+    "editGridSnap": true,
+    "parallax": {
+        "cut": {
+            "matting": false,
+            "model": "u2netp"
+        },
+        "depthBackdrop": true,
+        "edge": 0.15,
+        "front": [
+        ],
+        "motion": {
+            "amount": "normal",
+            "backdrop": 0.5,
+            "idle": "none",
+            "mouse": true,
+            "music": false,
+            "musicLevel": 0.6,
+            "range": 1,
+            "sensitivity": 1,
+            "speed": 1
+        },
+        "shadow": 0,
+        "shadowAngle": 90
+    },
+    "spatial": {
+        "model": "small",
+        "motion": {
+            "amount": "normal",
+            "mouse": true,
+            "range": 1,
+            "sensitivity": 1
+        },
+        "shadowAngle": 90
+    },
+    "version": 3
+}
