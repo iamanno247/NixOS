@@ -43,6 +43,7 @@
     nwg-look
     hydralauncher
     obs-studio
+    qbittorrent
 
     # PACKAGES
     nil

@@ -81,7 +81,7 @@ recent-windows {
 }
 
 environment {
-    BROWSER "/nix/store/2ryhpsn00a2fw2i4blz3md6qkw9ai2y8-brave-origin-1.98.63/bin/brave-origin"
+    BROWSER "/nix/store/43i1mz0qdiy7qmci9aqkbwymwi6zjaha-brave-origin-1.99.55/bin/brave-origin"
 }
 
 spawn-sh-at-startup "easyeffects --hide-window --service-mode"

@@ -25,7 +25,7 @@ hl.env("XCURSOR_SIZE", "20")
 hl.env("HYPRCURSOR_THEME", "Bibata-Material-Ryoku")
 hl.env("HYPRCURSOR_SIZE", "20")
 
-hl.env("BROWSER", "zen-beta --name zen-beta")
+hl.env("BROWSER", "/nix/store/43i1mz0qdiy7qmci9aqkbwymwi6zjaha-brave-origin-1.99.55/bin/brave-origin")
 
 hl.window_rule({ name = "ryoku-tame-maximize-on-open", match = { class = ".*" }, suppress_event = "maximize" })
 hl.window_rule({ name = "ryoku-user-1", match = { title = "Zen" }, maximize = true })

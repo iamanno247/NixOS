@@ -47,7 +47,7 @@
       disableHolidayNotifications = true;
       noMirroredCamera = true;
       refreshSlashCommands = true;
-      removeActivitySection = true;
+      removeActivitySection = false;
       showAllBadges = true;
       showYourOwnActivityButtons = true;
     };
