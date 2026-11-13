@@ -12,6 +12,7 @@
     zed-editor
     python314Packages.pip
     vscode
+    tableplus
 
     # CLI
     curl
@@ -33,6 +34,7 @@
     # APPS
     openrgb
     chromium
+    viewnior
     inputs.brave-flake.packages.${pkgs.system}.brave-origin
     lact
     gpu-screen-recorder-ui
